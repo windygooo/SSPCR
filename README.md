@@ -6,7 +6,7 @@ An official implementation of paper "Semi-Supervised Cell Recognition under Poin
 
 Two choices.
 
-- You can download the raw data from [CoNIC](https://conic-challenge.grand-challenge.org/) to **datasets/conic** folder and then run this [script](https://github.com/windyzy/SSPCR/blob/main/datasets/conic/prepare_data.py) to obtain training/validation/test subsets . 
+- You can download the raw data from [CoNIC](https://conic-challenge.grand-challenge.org/) to **datasets/conic** folder and then run this [script](https://github.com/windyzy/SSPCR/blob/main/datasets/conic/prepare_data.py) to obtain training/validation/test subsets. 
 - A more convenient way is to download the ready-made data subsets from Google Drive (after review).
 
 
@@ -42,6 +42,7 @@ python train_semi.py --dataset conic --space 8 --num_classes 6 --match_dis 6 --r
 ```
 
 
+## Checkpoint
 
 The checkpoints will be also released here after review.
 
