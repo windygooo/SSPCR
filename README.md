@@ -45,4 +45,3 @@ python train_semi.py --dataset conic --space 8 --num_classes 6 --match_dis 6 --r
 ## Checkpoints
 
 The checkpoints will be also released here after review.
-
